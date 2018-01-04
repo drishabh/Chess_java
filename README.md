@@ -20,4 +20,4 @@ green in several different ways, eg. regular, bold, high intensity, etc.
   Rook    ...   50
   Bishop  ...   30
   Knight  ...   30
-  Pawn    ...   10
+  Pawn    ...   10
