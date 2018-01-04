@@ -13,3 +13,11 @@ only if the new tile is either empty or occupied by other player's piece.
 
 4. ConsoleColor class is used to print the pieces on the console in linux using ANSI codes. THe available colors are blue, red, yellow, black,
 green in several different ways, eg. regular, bold, high intensity, etc.
+
+5. Values set of each piece is:
+  King    ...   900
+  Queen   ...   90
+  Rook    ...   50
+  Bishop  ...   30
+  Knight  ...   30
+  Pawn    ...   10
