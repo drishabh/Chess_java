@@ -21,3 +21,5 @@ green in several different ways, eg. regular, bold, high intensity, etc.
   Bishop  ...   30
   Knight  ...   30
   Pawn    ...   10
+
+6. It still lacks the validation of user input i.e. is it of the form (a3 b1). I will add this functionality soon. 
